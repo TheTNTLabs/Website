@@ -10,7 +10,7 @@ const config = {
   tagline: 'Minecraft, with a BANG!',
   url: 'https://www.thetntlabs.tk',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'TheTNTLabs', // Usually your GitHub org/user name.
