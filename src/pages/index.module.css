@@ -4,10 +4,15 @@
  */
 
 .heroBanner {
+  background-image: url('/img/banner.png');
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+[data-theme='dark'] .heroBanner {
+  background-image: url('/img/banner-dark.png');
 }
 
 @media screen and (max-width: 996px) {

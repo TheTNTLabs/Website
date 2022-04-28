@@ -1,17 +1,14 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+thetntlabs:
+  name: TheTNTLabs
+  title: Minecraft, with a BANG!
+  image_url: /img/logo.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+chewyball10:
+  name: Chewyball10
+  title: Owner of TheTNTLabs
+  image_url: https://forum.thetntlabs.tk/avatar/3feee4d6806d48c6b9a5963f553063bc
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+jacobtdc:
+  name: JacobTDC
+  title: Owner of TheTNTLabs
+  image_url: https://forum.thetntlabs.tk/avatar/65c43d7b531c45fa842d21d9918311eb
