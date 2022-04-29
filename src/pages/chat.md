@@ -22,9 +22,9 @@ Come chat with us on Matrix or Discord. Both platforms are bridged together.
         </div>
         <div class="card__footer">
           <div class="button-group button-group--block">
-            <a class="button button--secondary" href="/matrix">Join</a>
+            <a class="button button--secondary" href="/matrix" target="_blank">Join</a>
             <a class="button button--secondary" href="/rules/matrix">Rules</a>
-            <a class="button button--secondary" href="/matrix-privacy">Privacy</a>
+            <a class="button button--secondary" href="/matrix-privacy" target="_blank">Privacy</a>
           </div>
         </div>
       </div>
@@ -42,9 +42,9 @@ Come chat with us on Matrix or Discord. Both platforms are bridged together.
         </div>
         <div class="card__footer">
           <div class="button-group button-group--block">
-            <a class="button button--discord" href="/discord">Join</a>
+            <a class="button button--discord" href="/discord" target="_blank">Join</a>
             <a class="button button--discord" href="/rules/discord">Rules</a>
-            <a class="button button--discord" href="/discord-privacy">Privacy</a>
+            <a class="button button--discord" href="/discord-privacy" target="_blank">Privacy</a>
           </div>
         </div>
       </div>
