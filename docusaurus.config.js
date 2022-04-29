@@ -13,6 +13,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
+  trailingSlash: false,
   organizationName: 'TheTNTLabs', // Usually your GitHub org/user name.
   projectName: 'Website', // Usually your repo name.
 
