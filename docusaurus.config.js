@@ -29,6 +29,11 @@ const config = {
           blogTitle: 'News',
           routeBasePath: 'news',
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            title: 'TheTNTLabs News',
+            description: 'News about TheTNTLabs.',
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
