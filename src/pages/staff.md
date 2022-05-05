@@ -3,7 +3,6 @@ title: Staff
 ---
 
 # Staff
-Updated: 4/26/2022
 
 - - -
 
@@ -16,15 +15,15 @@ Updated: 4/26/2022
       <div class="card__body">
         <div class="row">
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/3cbbcc71519a46dca09cbde3aae8d897" />
+            <img src="/img/avatar/3cbbcc71519a46dca09cbde3aae8d897.png" />
             AshSummers
           </div>
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/3feee4d6806d48c6b9a5963f553063bc" />
+            <img src="/img/avatar/3feee4d6806d48c6b9a5963f553063bc.png" />
             Chewyball10
           </div>
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/65c43d7b531c45fa842d21d9918311eb" />
+            <img src="/img/avatar/65c43d7b531c45fa842d21d9918311eb.png" />
             JacobTDC
           </div>
           <div class="col"></div>
@@ -40,7 +39,7 @@ Updated: 4/26/2022
       <div class="card__body">
         <div class="row">
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/6c036c4999dd4baa973361c82f07e8ae" />
+            <img src="/img/avatar/6c036c4999dd4baa973361c82f07e8ae.png" />
             LoginatorV
           </div>
           <div class="col"></div>
@@ -56,11 +55,11 @@ Updated: 4/26/2022
       <div class="card__body">
         <div class="row">
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/578ffa6533e747acb0a07dbe417261f8" />
+            <img src="/img/avatar/578ffa6533e747acb0a07dbe417261f8.png" />
             bengaminga
           </div>
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/f685272301974204a6fb3571057e98b2" />
+            <img src="/img/avatar/f685272301974204a6fb3571057e98b2.png" />
             EagleEye02
           </div>
           <div class="col"></div>
@@ -76,11 +75,11 @@ Updated: 4/26/2022
       <div class="card__body">
         <div class="row">
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/d3f87c78552b4a30ac1df3a202143080" />
+            <img src="/img/avatar/d3f87c78552b4a30ac1df3a202143080.png" />
             ChristianTDC
           </div>
           <div class="col">
-            <img src="https://forum.thetntlabs.tk/avatar/3e95dc7b057e4a758f5fa1f560b9cc58" />
+            <img src="/img/avatar/3e95dc7b057e4a758f5fa1f560b9cc58.png" />
             Mentolis
           </div>
           <div class="col"></div>
