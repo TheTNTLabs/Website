@@ -14,4 +14,4 @@ updates:
       interval: "daily"
     allow:
     # Allow updates for Docusaurus
-    - dependency-name: "@docusaurus"
+    - dependency-name: "@docusaurus*"
