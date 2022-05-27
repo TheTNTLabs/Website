@@ -1,0 +1,28 @@
+name: Update Docusaurus
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+
+      - name: Update dependencies
+        run: npm i @docusaurus/core@latest @docusaurus/preset-classic@latest
+
+      - name: Create a pull request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          branch: update-docusaurus/patch
+          branch-suffix: short-commit-hash
+          commit-message: 'bump docusaurus to latest'
+          title: 'Bump Docusaurus to latest'
+          body: 'Release notes: https://github.com/facebook/docusaurus/releases/latest'
+          labels: dependencies
+          delete-branch: true
