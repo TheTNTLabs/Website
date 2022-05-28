@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: '16.x'
 
-      - name: Update dependencies
+      - name: Install dependencies
         run: npm i @docusaurus/core@latest @docusaurus/preset-classic@latest
 
       - name: Create a pull request
@@ -21,8 +21,8 @@ jobs:
         with:
           branch: update-docusaurus/patch
           branch-suffix: short-commit-hash
-          commit-message: 'bump docusaurus to latest'
-          title: 'Bump Docusaurus to latest'
-          body: 'Release notes: https://github.com/facebook/docusaurus/releases/latest'
+          commit-message: 'bump docusaurus to the latest version'
+          title: 'Bump Docusaurus to the latest version'
+          body: '[Release notes](https://github.com/facebook/docusaurus/releases/latest)'
           labels: dependencies
           delete-branch: true
