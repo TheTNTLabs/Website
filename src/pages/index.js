@@ -28,9 +28,7 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Home`}
-      description="TheTNTLabs: Minecraft, with a BANG!">
+    <Layout title={`TheTNTLabs: Minecraft, with a BANG!`}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />

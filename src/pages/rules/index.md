@@ -26,15 +26,15 @@ title: Rules
     <div class="col">
       <div class="card margin-bottom--sm">
         <div class="card__header">
-          <h3>Matrix</h3>
+          <h3 class="text--matrix">Matrix</h3>
         </div>
         <div class="card__body">
-          <p>
+          <p class="text--matrix">
             Updated: 4/26/2022
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--secondary" href="/rules/matrix">View</a>
+          <a class="button button--block button--matrix" href="/rules/matrix">View</a>
         </div>
       </div>
     </div>

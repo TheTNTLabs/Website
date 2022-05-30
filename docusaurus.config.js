@@ -76,7 +76,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} TheTNTLabs`,
+        copyright: `© ${new Date().getFullYear()} TheTNTLabs`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -42,7 +42,7 @@ title: Connect
           <h3>3: Select the server to connect.</h3>
         </div>
         <div class="card__body">
-          <img src="https://forum.thetntlabs.tk/banner/TheTNTLabs.png" />
+          <img src="/img/connect/step-3.png" />
         </div>
       </div>
     </div>

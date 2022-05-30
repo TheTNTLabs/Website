@@ -13,6 +13,10 @@
   --ifm-color-primary-light: #6bbb1f;
   --ifm-color-primary-lighter: #70c320;
   --ifm-color-primary-lightest: #7edb26;
+  --custom-color-discord: #5865f2;
+  --custom-color-discord-hover: #717cf4;
+  --custom-color-matrix: #000000;
+  --custom-color-matrix-hover: #333333;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -24,6 +28,10 @@
   --ifm-color-primary-light: #6bbb1f;
   --ifm-color-primary-lighter: #70c320;
   --ifm-color-primary-lightest: #7edb26;
+  --custom-color-discord: #5865f2;
+  --custom-color-discord-hover: #717cf4;
+  --custom-color-matrix: #ffffff;
+  --custom-color-matrix-hover: #cccccc;
 }
 
 .docusaurus-highlight-code-line {
@@ -36,6 +44,8 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Navbar */
 
 .navbar {
   background-color: var(--ifm-color-primary);
@@ -53,17 +63,40 @@
   color: var(--ifm-color-primary-darkest);
 }
 
+/* Discord */
+
 .button--discord {
-  background-color: #5865f2;
+  background-color: var(--custom-color-discord);
   border-color: transparent;
 }
 
 .button--discord:hover {
-  background-color: #7983f5;
+  background-color: var(--custom-color-discord-hover);
 }
 
 .text--discord {
-  color: #5865f2;
+  color: var(--custom-color-discord);
+}
+
+/* Matrix */
+
+.button--matrix {
+  background-color: var(--custom-color-matrix);
+  border-color: transparent;
+}
+
+.button--matrix:hover {
+  background-color: var(--custom-color-matrix-hover);
+}
+
+.text--matrix {
+  color: var(--custom-color-matrix);
+}
+
+/* Other */
+
+.card {
+  overflow: visible;
 }
 
 video {
