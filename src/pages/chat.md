@@ -50,7 +50,7 @@ Come chat with us on Matrix or Discord. Both platforms are bridged together.
               <div class="dropdown__menu">
                 <a class="dropdown__link" href="https://discord.com/terms">Terms</a>
                 <a class="dropdown__link" href="https://discord.com/privacy">Privacy</a>
-                <a class="dropdown__link" href="https://tosdr.org/en/service/2455">ToS;DR</a>
+                <a class="dropdown__link" href="https://tosdr.org/en/service/536">ToS;DR</a>
               </div>
             </div>
           </div>
