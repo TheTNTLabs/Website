@@ -32,7 +32,8 @@ jobs:
           commit-message: "bump docusaurus to $LATEST_VERSION"
           title: "Bump Docusaurus to $LATEST_VERSION"
           body: |
-            Bumps @docusaurus/core and @docusaurus/preset-classic to $LATEST_VERSION.
+            Bumps [@docusaurus/core](https://github.com/facebook/docusaurus/tree/HEAD/packages/docusaurus) and [@docusaurus/preset-classic](https://github.com/facebook/docusaurus/tree/HEAD/packages/docusaurus-preset-classic) to $LATEST_VERSION.
+
             [Release notes](https://github.com/facebook/docusaurus/releases/tag/v$LATEST_VERSION)
           labels: "dependencies"
           delete-branch: true
