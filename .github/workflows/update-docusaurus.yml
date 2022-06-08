@@ -2,27 +2,37 @@ name: Update Docusaurus
 
 on:
   workflow_dispatch:
+    inputs:
+      latest-version:
+        description: "Latest Version"
+
+env:
+  LATEST_VERSION: ${{ inputs.latest-version }}
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: "Checkout"
+        uses: actions/checkout@v3
+
+      - name: "Setup Node"
+        uses: actions/setup-node@v3
         with:
-          node-version: '16.x'
+          node-version: "16.x"
 
-      - name: Install dependencies
-        run: npm i @docusaurus/core@latest @docusaurus/preset-classic@latest
+      - name: "Install dependencies"
+        run: "npm i @docusaurus/core@latest @docusaurus/preset-classic@latest"
 
-      - name: Create a pull request
+      - name: "Create a pull request"
         uses: peter-evans/create-pull-request@v4
         with:
-          branch: update-docusaurus/patch
-          branch-suffix: short-commit-hash
-          commit-message: 'bump docusaurus to the latest version'
-          title: 'Bump Docusaurus to the latest version'
-          body: '[Release notes](https://github.com/facebook/docusaurus/releases/latest)'
-          labels: dependencies
+          branch: "update-docusaurus/patch"
+          branch-suffix: "short-commit-hash"
+          commit-message: "bump docusaurus to $LATEST_VERSION"
+          title: "Bump Docusaurus to $LATEST_VERSION"
+          body: |
+            Bumps @docusaurus/core and @docusaurus/preset-classic to $LATEST_VERSION.
+            [Release notes](https://github.com/facebook/docusaurus/releases/tag/v$LATEST_VERSION)
+          labels: "dependencies"
           delete-branch: true
