@@ -1,5 +1,5 @@
 ---
-title: Issues
+title: "Issues"
 ---
 
 # Issues

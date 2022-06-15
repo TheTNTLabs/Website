@@ -1,5 +1,5 @@
 ---
-title: Connect
+title: "Connect"
 ---
 
 # Connect
