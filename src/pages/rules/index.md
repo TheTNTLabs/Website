@@ -1,5 +1,5 @@
 ---
-title: Rules
+title: "Rules"
 ---
 
 # Rules
@@ -15,7 +15,7 @@ title: Rules
         </div>
         <div class="card__body">
           <p class="text--primary">
-            Updated: --/--/----
+            Updated: <span title="YYYY-MM-DD"></span>
           </p>
         </div>
         <div class="card__footer">
@@ -30,7 +30,7 @@ title: Rules
         </div>
         <div class="card__body">
           <p class="text--matrix">
-            Updated: 4/26/2022
+            Updated: <span title="YYYY-MM-DD">2022-06-14</span>
           </p>
         </div>
         <div class="card__footer">
@@ -45,7 +45,7 @@ title: Rules
         </div>
         <div class="card__body">
           <p class="text--discord">
-            Updated: 4/26/2022
+            Updated: <span title="YYYY-MM-DD">2022-06-14</span>
           </p>
         </div>
         <div class="card__footer">

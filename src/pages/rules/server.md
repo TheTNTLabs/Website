@@ -1,5 +1,5 @@
 ---
-title: Rules - Minecraft Server
+title: "Rules: Minecraft Server"
 ---
 
 # Rules: Minecraft Server
@@ -14,7 +14,7 @@ title: Rules - Minecraft Server
       </p>
     </div>
     <div class="card__footer">
-      Updated: --/--/----
+      Updated: <span title="YYYY-MM-DD"></span>
     </div>
   </div>
 </div>
