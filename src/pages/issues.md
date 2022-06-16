@@ -19,7 +19,7 @@ title: "Issues"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/labels/type%3A%20bug-report">Go</a>
+          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/issues/new?assignees=&labels=type%3A+bug-report&template=BUG-REPORT.yml">Go</a>
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@ title: "Issues"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/labels/type%3A%20player-report">Go</a>
+          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/issues/new?assignees=&labels=type%3A+player-report&template=PLAYER-REPORT.yml">Go</a>
         </div>
       </div>
     </div>
@@ -53,7 +53,7 @@ title: "Issues"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/labels/type%3A%20punishment-appeal">Go</a>
+          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/issues/new?assignees=&labels=type%3A+punishment-appeal&template=PUNISHMENT-APPEAL.yml">Go</a>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@ title: "Issues"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/labels/type%3A%20suggestion">Go</a>
+          <a class="button button--block button--primary" href="https://github.com/TheTNTLabs/Issues/issues/new?assignees=&labels=type%3A+suggestion&template=SUGGESTION.yml">Go</a>
         </div>
       </div>
     </div>
