@@ -19,10 +19,10 @@ Come chat with us on Matrix or Discord. Both platforms are bridged together.
         </div>
         <div class="card__footer">
           <div class="button-group button-group--block">
-            <a class="button button--matrix" href="/matrix" target="_blank">Join</a>
-            <a class="button button--matrix" href="/rules/matrix">Rules</a>
-            <div class="button button--matrix dropdown dropdown--hoverable">
-              <b>Legal</b>
+            <a class="button button--primary button--matrix" href="/matrix" target="_blank">Join</a>
+            <a class="button button--primary button--matrix" href="/rules/matrix">Rules</a>
+            <div class="button button--primary button--matrix dropdown dropdown--hoverable">
+              <b>Legal ⏷</b>
               <div class="dropdown__menu">
                 <a class="dropdown__link" href="https://matrix.org/legal/terms-and-conditions">Terms</a>
                 <a class="dropdown__link" href="https://matrix.org/legal/privacy-notice">Privacy</a>
@@ -43,10 +43,10 @@ Come chat with us on Matrix or Discord. Both platforms are bridged together.
         </div>
         <div class="card__footer">
           <div class="button-group button-group--block">
-            <a class="button button--discord" href="/discord" target="_blank">Join</a>
-            <a class="button button--discord" href="/rules/discord">Rules</a>
-            <div class="button button--discord dropdown dropdown--hoverable">
-              <b>Legal</b>
+            <a class="button button--primary button--discord" href="/discord" target="_blank">Join</a>
+            <a class="button button--primary button--discord" href="/rules/discord">Rules</a>
+            <div class="button button--primary button--discord dropdown dropdown--hoverable">
+              <b>Legal ⏷</b>
               <div class="dropdown__menu">
                 <a class="dropdown__link" href="https://discord.com/terms">Terms</a>
                 <a class="dropdown__link" href="https://discord.com/privacy">Privacy</a>

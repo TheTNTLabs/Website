@@ -34,7 +34,7 @@ title: "Rules"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--matrix" href="/rules/matrix">View</a>
+          <a class="button button--block button--primary button--matrix" href="/rules/matrix">View</a>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@ title: "Rules"
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--block button--discord" href="/rules/discord">View</a>
+          <a class="button button--block button--primary button--discord" href="/rules/discord">View</a>
         </div>
       </div>
     </div>
