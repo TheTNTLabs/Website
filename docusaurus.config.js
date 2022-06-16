@@ -72,6 +72,7 @@ const config = {
           {to: '/rules', label: 'Rules', position: 'left'},
           {to: '/staff', label: 'Staff', position: 'left'},
           {to: '/issues', label: 'Issues', position: 'left'},
+          {href: 'https://github.com/TheTNTLabs/Website', position: 'right', className: 'github-icon'},
         ],
       },
       footer: {
