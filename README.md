@@ -18,10 +18,6 @@ How to get the website running on your local machine for development.
 git clone https://github.com/TheTNTLabs/Website.git
 ```
 
-```bash
-git clone git@github.com:TheTNTLabs/Website.git
-```
-
 2. Install all required dependencies.
 
 ```bash
