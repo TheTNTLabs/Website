@@ -1,8 +1,10 @@
 ---
 title: "Issues"
+description: "We use GitHub Issues to track reports, bugs, feedback, and ideas."
 ---
 
 # Issues
+We use GitHub Issues to track reports, bugs, feedback, and ideas.
 
 - - -
 

@@ -27,6 +27,7 @@ const config = {
         },
         blog: {
           blogTitle: 'News',
+          blogDescription: 'News about TheTNTLabs.',
           routeBasePath: 'news',
           showReadingTime: true,
           feedOptions: {

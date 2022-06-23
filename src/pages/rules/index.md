@@ -1,8 +1,10 @@
 ---
 title: "Rules"
+description: "The rules of the road."
 ---
 
 # Rules
+The rules of the road.
 
 - - -
 

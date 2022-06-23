@@ -1,5 +1,6 @@
 ---
 title: "Chat"
+description: "Come chat with us on Matrix or Discord. Both platforms are bridged together."
 ---
 
 # Chat

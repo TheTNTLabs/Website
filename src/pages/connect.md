@@ -1,8 +1,10 @@
 ---
 title: "Connect"
+description: "Connect to the server."
 ---
 
 # Connect
+Connect to the server.
 
 - - -
 

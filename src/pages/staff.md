@@ -1,8 +1,10 @@
 ---
 title: "Staff"
+description: "The team behind TheTNTLabs."
 ---
 
 # Staff
+The team behind TheTNTLabs.
 
 - - -
 
