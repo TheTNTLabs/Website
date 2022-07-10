@@ -22,10 +22,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-        },
+        docs: false,
         blog: {
+          path: 'news',
           blogTitle: 'News',
           blogDescription: 'News about TheTNTLabs.',
           routeBasePath: 'news',
