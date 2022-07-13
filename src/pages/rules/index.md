@@ -32,7 +32,7 @@ The rules of the road.
         </div>
         <div class="card__body">
           <p class="text--matrix">
-            Updated: <span title="YYYY-MM-DD">2022-06-14</span>
+            Updated: <span title="YYYY-MM-DD">2022-07-13</span>
           </p>
         </div>
         <div class="card__footer">
@@ -47,7 +47,7 @@ The rules of the road.
         </div>
         <div class="card__body">
           <p class="text--discord">
-            Updated: <span title="YYYY-MM-DD">2022-06-14</span>
+            Updated: <span title="YYYY-MM-DD">2022-07-13</span>
           </p>
         </div>
         <div class="card__footer">
