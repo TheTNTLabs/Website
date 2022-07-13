@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  // TODO: Add features after release.
+  // TODO: Add features later.
   {
     title: '',
     image: '',

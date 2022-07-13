@@ -1,10 +1,6 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TheTNTLabs',
   tagline: 'Minecraft, with a BANG!',
@@ -14,13 +10,12 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   trailingSlash: false,
-  organizationName: 'TheTNTLabs', // Usually your GitHub org/user name.
-  projectName: 'Website', // Usually your repo name.
+  organizationName: 'TheTNTLabs',
+  projectName: 'Website',
 
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: false,
         blog: {
@@ -43,22 +38,10 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
         respectPrefersColorScheme: true,
       },
-      image: "img/logo.png",
-      metadata: [
-        {
-          name: "og:type",
-          content: "website",
-        },
-        {
-          name: "og:image:alt",
-          content: "TheTNTLabs Logo",
-        },
-      ],
       navbar: {
         title: 'TheTNTLabs',
         logo: {
@@ -77,7 +60,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `© 2022-${new Date().getFullYear()} TheTNTLabs`,
+        copyright: `Copyright © ${new Date().getFullYear()} TheTNTLabs. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
